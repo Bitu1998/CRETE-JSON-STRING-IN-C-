@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6l/GlfcSnquU8EdKp24zfx8qLCLTZph0SojUop3l+xE3PM4vZdIAjcOv+G1aSonii9CTXsNukReHGsHAfVR76A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gobinda.das\\source\\repos\\jsonoperation\\jsonoperation\\jsonoperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gobinda.das\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.exe
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.deps.json
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.runtimeconfig.json
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.runtimeconfig.dev.json
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.dll
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\jsonoperation.pdb
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.csproj.AssemblyReference.cache
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.AssemblyInfoInputs.cache
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.AssemblyInfo.cs
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.csproj.CoreCompileInputs.cache
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.csproj.CopyComplete
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.dll
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.pdb
+C:\Users\gobinda.das\source\repos\jsonoperation\jsonoperation\obj\Debug\netcoreapp3.1\jsonoperation.genruntimeconfig.cache
